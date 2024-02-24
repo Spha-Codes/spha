@@ -29,22 +29,26 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Spatial Omics
+  - Mass Spectrometry
+  - Cardiovascular research
+  - Bioinformatics
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Pharmaceutical Chemistry
+      institution: University of KwaZulu-Natal
+      year: 2019
+    - course: MSc in Pharmaceutical Chemistry
+      institution: University of KwaZulu-Natal
+      year: 2016
+    - course: BSc(Hons) in Chemistry
+      institution: University of KwaZulu-Natal
+      year: 2015
+    - course: BSc in Applied Chemistry
+      institution: University of KwaZulu-Natal
+      year: 2014
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -53,15 +57,15 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 20
         icon: python
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 70
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: R
         description: ''
         percent: 40
         icon: database
