@@ -83,7 +83,12 @@ sections:
           location: Durban
           date_start: '2020-05-01'
           date_end: '2020-09-30'
-          description: I conducted PCR tests for COVID-19 (Pandemic Temp Job). During the pandemic, my professional journey became a blend of challenges and opportunities. As a Scientist, I adapted to novel work methods, evolved responsibilities, and embraced diverse modes of collaboration. Our approach overhaul proved pivotal in navigating this transformative period. It was a time marked by resilience, innovation, and collective determination as we strived toward positive change despite adversity.
+          description: |2-
+              Responsibilities include:
+
+              * Sample Prep and Analysis
+              * Data Analysis
+              * Reports
     design:
       columns: '2'
 #  - block: accomplishments
