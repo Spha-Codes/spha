@@ -76,14 +76,14 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Medical Laboratory Technician (MLT)
+          company: University of KwaZulu-Natal
           company_url: ''
 #          company_logo: org-X
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Durban
+          date_start: '2020-05-01'
+          date_end: '2020-09-30'
+          description: I conducted PCR tests for COVID-19 (Pandemic Temp Job). During the pandemic, my professional journey became a blend of challenges and opportunities. As a Scientist, I adapted to novel work methods, evolved responsibilities, and embraced diverse modes of collaboration. Our approach overhaul proved pivotal in navigating this transformative period. It was a time marked by resilience, innovation, and collective determination as we strived toward positive change despite adversity.
     design:
       columns: '2'
 #  - block: accomplishments
