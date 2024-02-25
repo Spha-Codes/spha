@@ -77,7 +77,7 @@ sections:
               * Modelling
               * Deploying
         - title: Medical Laboratory Technician (MLT)
-          company: University of KwaZulu-Natal
+          company: Global Health Innovations (GHI)
           company_url: ''
 #          company_logo: org-X
           location: Durban
