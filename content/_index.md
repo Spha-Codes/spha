@@ -256,7 +256,7 @@ sections:
         latitude: '55.92174'
         longitude: '-3.13948'  
       contact_links:
-        - icon: x
+        - icon: x-twitter
           icon_pack: fab
           name: DM Me
           link: 'https://twitter.com/SphamandlaN7'
