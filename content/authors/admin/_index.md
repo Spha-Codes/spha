@@ -25,7 +25,7 @@ organizations:
     url: https://www.ed.ac.uk/cardiovascular-science
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Spha, Cardiovascular Research Scientist | Biomarker Explorer | 🌿🔬
 
 # Interests to show in About widget
 interests:
@@ -124,5 +124,7 @@ social:
 highlight_name: true
 ---
 
-Spha, a passionate Research Scientist, explores the complex world of cardiovascular health—a realm that encompasses heart conditions like atherosclerosis and aortic valve disease. With innovative techniques like Mass Spectrometry Imaging, Spatial Omics, Proteomics, and Metabolomics, Spha explores disease progression, seeking hidden biomarkers that promise more effective diagnosis and treatments. 🌿🔬
+I'm Sphamandla Ntshangase, but you can call me Spha. I'm a passionate Research Scientist at the University of Edinburgh, BHF Centre for Cardiovascular Science. My research and writing explore the complex nature of cardiovascular health. Within this realm, I navigate heart conditions such as atherosclerosis and aortic valve disease, unraveling their mysteries through cutting-edge techniques. My toolkit includes Mass Spectrometry Imaging, Spatial Omics, Proteomics, and Metabolomics - each providing a lens through which I view into disease progression.
+
+My mission? To uncover hidden biomarkers that hold the promise of more effective diagnoses and treatments. 🌿🔬
 {style="text-align: justify;"}
