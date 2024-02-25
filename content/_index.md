@@ -237,7 +237,7 @@ sections:
 #      text: |-
 #        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
+#      email: test@example.org
 #      phone: 888 888 88 88
 #      appointment_url: 'https://calendly.com'
 #      address:
@@ -256,10 +256,10 @@ sections:
         latitude: '55.92174'
         longitude: '-3.13948'  
       contact_links:
-        - icon: twitter
+        - icon: x
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
+          link: 'https://twitter.com/SphamandlaN7'
 #        - icon: skype
 #          icon_pack: fab
 #          name: Skype Me
