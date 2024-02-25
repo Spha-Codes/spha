@@ -124,5 +124,5 @@ social:
 highlight_name: true
 ---
 
-I'm deeply invested in cardiovascular research, exploring innovative techniques like Mass Spectrometry Imaging, Spatial Omics, Proteomics, and Metabolomics. With Data Science and Bioinformatics as my allies, I decipher the complex world of heart health. My goal? To shed light on cardiovascular conditions, making diagnosis and treatment more effective for everyone.
+Spha, a passionate Research Scientist, dives into the intricate world of cardiovascular health—a realm that encompasses heart conditions like atherosclerosis and aortic valve disease. With innovative techniques like Mass Spectrometry Imaging, Spatial Omics, Proteomics, and Metabolomics, Spha explores disease progression, seeking hidden biomarkers that promise more effective diagnosis and treatments. 🌿🔬
 {style="text-align: justify;"}
