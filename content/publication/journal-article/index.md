@@ -1,16 +1,22 @@
 ---
-title: "An example journal article"
+title: "Mass Spectrometry Imaging Demonstrates the Regional Brain Distribution Patterns of Three First-Line Antiretroviral Drugs"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- Sphamandla Ntshangase
+- Sipho Mdanda
+- Sanil D. Singh
+- Tricia Naicker
+- Hendrik G. Kruger
+- Sanil D. Singh
+- Sooraj Baijnath
+- Thavendran Govender
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
+date: "2019-12-05T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-12-05T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,13 +24,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "ACS Omega 2019, 4, 25, 21169–21177"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: HIV in the central nervous system (CNS) contributes to the development of HIV-associated neurological disorders (HAND), even with chronic antiretroviral therapy. In order for antiretroviral therapy to be effective in protecting the CNS, these drugs should have the ability to localize in brain areas known to be affected by HIV. Consequently, this study aimed to investigate the localization patterns of three first-line antiretroviral drugs, namely, efavirenz, tenofovir, and emtricitabine, in the rat brain. Liquid chromatography–tandem mass spectrometry (LC–MS/MS) and matrix-assisted laser desorption ionization mass spectrometry imaging (MALDI-MSI) were utilized to assess the pharmacokinetics and brain spatial distribution of the three drugs. Each drug was administered (50 mg/kg) to healthy female Sprague–Dawley rats via intraperitoneal administration. LC–MS/MS results showed that all three drugs could be delivered into the brain, although they varied in blood–brain barrier permeability. MALDI-MSI showed a high degree of efavirenz localization across the entire brain, while tenofovir localized mainly in the cortex. Emtricitabine distributed heterogeneously mainly in the thalamus, corpus callosum, and hypothalamus. This study showed that efavirenz, tenofovir, and emtricitabine might be a potential drug combination antiretroviral therapy for CNS protection against HAND..
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+## Summary. An optional shortened abstract.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
