@@ -29,10 +29,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Spatial Omics
-  - Mass Spectrometry
-  - Cardiovascular research
-  - Bioinformatics
+  - Spatial Omics 🌐
+  - Mass Spectrometry 🔍
+  - Cardiovascular Research 💓🔬
+  - Bioinformatics 🧬💻
 
 # Education to show in About widget
 education:
@@ -124,5 +124,5 @@ social:
 highlight_name: true
 ---
 
-Spha, a passionate Research Scientist, dives into the complex world of cardiovascular health—a realm that encompasses heart conditions like atherosclerosis and aortic valve disease. With innovative techniques like Mass Spectrometry Imaging, Spatial Omics, Proteomics, and Metabolomics, Spha explores disease progression, seeking hidden biomarkers that promise more effective diagnosis and treatments. 🌿🔬
+Spha, a passionate Research Scientist, explores the complex world of cardiovascular health—a realm that encompasses heart conditions like atherosclerosis and aortic valve disease. With innovative techniques like Mass Spectrometry Imaging, Spatial Omics, Proteomics, and Metabolomics, Spha explores disease progression, seeking hidden biomarkers that promise more effective diagnosis and treatments. 🌿🔬
 {style="text-align: justify;"}
