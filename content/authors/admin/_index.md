@@ -124,5 +124,5 @@ social:
 highlight_name: true
 ---
 
-Spha, a passionate Research Scientist, dives into the intricate world of cardiovascular health—a realm that encompasses heart conditions like atherosclerosis and aortic valve disease. With innovative techniques like Mass Spectrometry Imaging, Spatial Omics, Proteomics, and Metabolomics, Spha explores disease progression, seeking hidden biomarkers that promise more effective diagnosis and treatments. 🌿🔬
+Spha, a passionate Research Scientist, dives into the complex world of cardiovascular health—a realm that encompasses heart conditions like atherosclerosis and aortic valve disease. With innovative techniques like Mass Spectrometry Imaging, Spatial Omics, Proteomics, and Metabolomics, Spha explores disease progression, seeking hidden biomarkers that promise more effective diagnosis and treatments. 🌿🔬
 {style="text-align: justify;"}
