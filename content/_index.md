@@ -65,7 +65,7 @@ sections:
         - title: Postdoctoral Research Scientist
           company: University of Edinburgh, BHF Center for Cardiovascular Science
           company_url: ''
-          company_logo: org-gc
+          company_logo: org-UoE
           location: Edinburgh
           date_start: '2020-11-02'
           date_end: ''
@@ -78,7 +78,7 @@ sections:
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
-          company_logo: org-x
+          company_logo: org-UoE
           location: California
           date_start: '2016-01-01'
           date_end: '2020-12-31'
