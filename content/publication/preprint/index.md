@@ -1,68 +1,123 @@
----
-title: "An example preprint / working paper"
-authors:
-- admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
+[//]: # (---)
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+[//]: # (title: "An example preprint / working paper")
 
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ["article"]
+[//]: # (authors:)
 
-# Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+[//]: # (- admin)
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+[//]: # (date: "2019-04-07T00:00:00Z")
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+[//]: # (doi: "")
 
-tags:
-- Source Themes
-featured: false
+[//]: # ()
+[//]: # (# Schedule page publish date &#40;NOT publication's date&#41;.)
 
-links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+[//]: # (publishDate: "2017-01-01T00:00:00Z")
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ""
-  preview_only: false
+[//]: # ()
+[//]: # (# Publication type.)
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- internal-project
+[//]: # (# Accepts a single type but formatted as a YAML list &#40;for Hugo requirements&#41;.)
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
----
+[//]: # (# Enter a publication type from the CSL standard.)
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+[//]: # (publication_types: ["article"])
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+[//]: # ()
+[//]: # (# Publication name and optional abbreviated publication name.)
+
+[//]: # (publication: "")
+
+[//]: # (publication_short: "")
+
+[//]: # ()
+[//]: # (abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.)
+
+[//]: # ()
+[//]: # (# Summary. An optional shortened abstract.)
+
+[//]: # (summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.)
+
+[//]: # ()
+[//]: # (tags:)
+
+[//]: # (- Source Themes)
+
+[//]: # (featured: false)
+
+[//]: # ()
+[//]: # (links:)
+
+[//]: # (- name: Custom Link)
+
+[//]: # (  url: http://example.org)
+
+[//]: # (url_pdf: http://arxiv.org/pdf/1512.04133v1)
+
+[//]: # (url_code: 'https://github.com/HugoBlox/hugo-blox-builder')
+
+[//]: # (url_dataset: '#')
+
+[//]: # (url_poster: '#')
+
+[//]: # (url_project: '')
+
+[//]: # (url_slides: '')
+
+[//]: # (url_source: '#')
+
+[//]: # (url_video: '#')
+
+[//]: # ()
+[//]: # (# Featured image)
+
+[//]: # (# To use, add an image named `featured.jpg/png` to your page's folder. )
+
+[//]: # (image:)
+
+[//]: # (  caption: 'Image credit: [**Unsplash**]&#40;https://unsplash.com/photos/s9CC2SKySJM&#41;')
+
+[//]: # (  focal_point: "")
+
+[//]: # (  preview_only: false)
+
+[//]: # ()
+[//]: # (# Associated Projects &#40;optional&#41;.)
+
+[//]: # (#   Associate this publication with one or more of your projects.)
+
+[//]: # (#   Simply enter your project's folder or file name without extension.)
+
+[//]: # (#   E.g. `internal-project` references `content/project/internal-project/index.md`.)
+
+[//]: # (#   Otherwise, set `projects: []`.)
+
+[//]: # (projects:)
+
+[//]: # (- internal-project)
+
+[//]: # ()
+[//]: # (# Slides &#40;optional&#41;.)
+
+[//]: # (#   Associate this publication with Markdown slides.)
+
+[//]: # (#   Simply enter your slide deck's filename without extension.)
+
+[//]: # (#   E.g. `slides: "example"` references `content/slides/example/index.md`.)
+
+[//]: # (#   Otherwise, set `slides: ""`.)
+
+[//]: # (slides: example)
+
+[//]: # (---)
+
+[//]: # ()
+[//]: # ({{% callout note %}})
+
+[//]: # (Create your slides in Markdown - click the *Slides* button to check out the example.)
+
+[//]: # ({{% /callout %}})
+
+[//]: # ()
+[//]: # (Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images]&#40;https://docs.hugoblox.com/content/writing-markdown-latex/&#41;.)
