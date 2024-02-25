@@ -83,7 +83,7 @@ sections:
           location: Durban
           date_start: '2020-05-01'
           date_end: '2020-09-30'
-          description: |2-
+          description: |3-
               Responsibilities include:
 
               * Sample Prep and Analysis
