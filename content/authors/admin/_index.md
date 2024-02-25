@@ -124,5 +124,5 @@ social:
 highlight_name: true
 ---
 
-Spha is a Research Scientist of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm deeply invested in cardiovascular research, exploring innovative techniques like Mass Spectrometry Imaging, Spatial Omics, Proteomics, and Metabolomics. With Data Science and Bioinformatics as my allies, I decipher the complex world of heart health. My goal? To shed light on cardiovascular conditions, making diagnosis and treatment more effective for everyone.
 {style="text-align: justify;"}
