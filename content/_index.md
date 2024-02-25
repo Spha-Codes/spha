@@ -51,6 +51,7 @@ sections:
     design:
       columns: '1'
   - block: experience
+#    id: posts
     content:
       title: Experience
       # Date format for experience
@@ -62,7 +63,6 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-    id: posts
         - title: Postdoctoral Research Scientist
           company: University of Edinburgh, BHF Center for Cardiovascular Science
           company_url: ''
@@ -83,7 +83,7 @@ sections:
           location: Durban
           date_start: '2020-05-01'
           date_end: '2020-09-30'
-          description: |3-
+          description: |3- #there is a problem here, I changed from 2 to 3 still not solved
               Responsibilities include:
 
               * Sample Prep and Analysis
