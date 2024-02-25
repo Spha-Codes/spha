@@ -189,17 +189,17 @@ sections:
 #        {{< gallery album="demo" >}}
 #    design:
 #      columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
+#  - block: collection
+#    id: featured
+#    content:
+#      title: Featured Publications
+#      filters:
+#        folders:
+#          - publication
+#        featured_only: true
+#    design:
+#      columns: '2'
+#      view: card
   - block: collection
     content:
       title: Recent Publications
@@ -212,7 +212,7 @@ sections:
           - publication
         exclude_featured: true
     design:
-      columns: '2'
+      columns: '1'
       view: citation
 #  - block: collection
 #    id: talks
