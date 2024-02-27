@@ -70,8 +70,8 @@ skills:
         percent: 40
         icon: database
         icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
+  - name: Interdisciplinary Technical
+    color: '#0e9296'
     color_border: '#f0bf23'
     items:
       - name: Mass Spectrometry
