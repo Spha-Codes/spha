@@ -76,7 +76,7 @@ skills:
     items:
       - name: Mass Spectrometry
         description: ''
-        percent: 60
+        percent: 100
         icon: stackoverflow
         icon_pack: ai
       - name: Cardiovascular Research
