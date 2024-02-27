@@ -82,8 +82,8 @@ skills:
       - name: Cardiovascular Research
         description: ''
         percent: 100
-        icon: bicycle
-        icon_pack: fas
+        icon: inpn
+        icon_pack: ai
       - name: Pathology
         description: ''
         percent: 80
