@@ -54,6 +54,8 @@ education:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
+    color: '#0e9296'
+    color_border: '#0e9296'
     items:
       - name: Python
         description: ''
