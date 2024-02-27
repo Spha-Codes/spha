@@ -72,7 +72,7 @@ skills:
         icon_pack: fas
   - name: Interdisciplinary Technical
     color: '#0e9296'
-    color_border: '#f0bf23'
+    color_border: '#07f0f7'
     items:
       - name: Mass Spectrometry
         description: ''
