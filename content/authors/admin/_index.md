@@ -77,7 +77,7 @@ skills:
       - name: Mass Spectrometry
         description: ''
         percent: 60
-        icon: open-data
+        icon: person-hiking
         icon_pack: fas
       - name: Cardiovascular Research
         description: ''
