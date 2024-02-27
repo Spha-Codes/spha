@@ -79,7 +79,7 @@ skills:
       - name: Mass Spectrometry
         description: ''
         percent: 100
-        icon: acclaim
+        icon: open-data
         icon_pack: ai
       - name: Cardiovascular Research
         description: ''
