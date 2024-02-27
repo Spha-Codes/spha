@@ -74,17 +74,17 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Exploring Nature
+      - name: Mass Spectrometry
         description: ''
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cycling
+      - name: Cardiovascular Research
         description: ''
         percent: 100
         icon: bicycle
         icon_pack: fas
-      - name: Photography
+      - name: Pathology
         description: ''
         percent: 80
         icon: camera-retro
