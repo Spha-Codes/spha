@@ -72,7 +72,7 @@ skills:
         icon_pack: fas
   - name: Interdisciplinary Technical
     color: '#0e9296'
-    color_border: '#07f0f7'
+    color_border: '#0e9296'
     items:
       - name: Mass Spectrometry
         description: ''
@@ -81,7 +81,7 @@ skills:
         icon_pack: ai
       - name: Cardiovascular Research
         description: ''
-        percent: 100
+        percent: 80
         icon: inpn
         icon_pack: ai
       - name: Pathology
