@@ -111,7 +111,7 @@ social:
     link: https://scholar.google.com/citations?user=lTB-JQUAAAAJ&hl=en&authuser=1
   - icon: github
     icon_pack: fab
-    link: https://github.com/SphamandlaN7
+    link: https://github.com/Spha-Codes
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/sphamandla-ntshangase-2723a1b6/
