@@ -73,11 +73,11 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Pioneered mass spectrometry-based lipidomics/metabolomics workflows for cardiovascular research.
-              * Applied Python (NumPy, Pandas, Matplotlib), Jupyter, R (ggplot2, dplyr) for data management and analysis.
+              * Pioneered mass spectrometry-based OMICS workflows for cardiovascular research.
+              * Applied Python, Jupyter, R for data management and analysis.
               * Enhanced research with data visualization and statistical tools.
               * Contributed to scientific breakthroughs through analytical techniques.
-              * Participated in grant writing efforts, securing funding for ongoing and future research projects.
+              * Participated in grant writing, securing funding for ongoing and future research projects.
               * Integrated collaborative research across disciplines.
               * Delivered presentations at scientific conferences/meetings (local and international).
               * Guided junior researchers in developing research methodologies.
