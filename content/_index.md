@@ -73,9 +73,14 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Pioneered mass spectrometry-based lipidomics/metabolomics workflows for cardiovascular research.
+              * Applied Python (NumPy, Pandas, Matplotlib), Jupyter, R (ggplot2, dplyr) for data management and analysis.
+              * Enhanced research with data visualization and statistical tools.
+              * Contributed to scientific breakthroughs through analytical techniques.
+              * Participated in grant writing efforts, securing funding for ongoing and future research projects.
+              * Integrated collaborative research across disciplines.
+              * Delivered presentations at scientific conferences/meetings (local and international).
+              * Guided junior researchers in developing research methodologies.
         - title: Medical Laboratory Technician (MLT)
           company: Global Health Innovations (GHI)
           company_url: ''
@@ -86,9 +91,11 @@ sections:
           description: |3- #there is a problem here, I changed from 2 to 3 still not solved
               Responsibilities include:
 
-              * Sample Prep and Analysis
-              * Data Analysis
-              * Reports
+              * Conducted daily PCR testing for COVID-19, contributing to global health efforts.
+              * Maintained rigorous quality control to ensure accurate test results.
+              * Collaborated with a team of healthcare professionals in a high-pressure environment.
+              * Assisted in the data collection and reporting of test outcomes.
+              * Implemented safety protocols to prevent contamination and ensure lab safety.
     design:
       columns: '2'
 #  - block: accomplishments
