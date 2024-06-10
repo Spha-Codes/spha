@@ -59,7 +59,7 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 20
+        percent: 55
         icon: python
         icon_pack: fab
       - name: Data Science
@@ -69,7 +69,7 @@ skills:
         icon_pack: fas
       - name: R
         description: ''
-        percent: 40
+        percent: 60
         icon: database
         icon_pack: fas
   - name: Interdisciplinary Technical
