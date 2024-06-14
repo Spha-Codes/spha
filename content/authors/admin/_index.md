@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Spha
+title: Sphazori
 
 ## Name pronunciation (optional)
 #name_pronunciation: Spha
