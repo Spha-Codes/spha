@@ -126,7 +126,7 @@ social:
 highlight_name: true
 ---
 
-I'm Sphamandla Ntshangase, but you can call me Spha. I'm a passionate Research Scientist at the University of Edinburgh, BHF Centre for Cardiovascular Science. My research and writing explore the complex nature of cardiovascular health. Within this realm, I navigate heart conditions such as atherosclerosis and aortic valve disease, unraveling their mysteries through cutting-edge techniques. My toolkit includes Mass Spectrometry Imaging, Spatial Omics, Proteomics, and Metabolomics - each providing a lens through which I view into disease progression.
+I'm **Sphamandla Ntshangase**, but you can call me **Spha**. I'm a passionate Research Scientist at the University of Edinburgh, BHF Centre for Cardiovascular Science. My research and writing explore the complex nature of cardiovascular health. Within this realm, I navigate heart conditions such as atherosclerosis and aortic valve disease, unraveling their mysteries through cutting-edge techniques. My toolkit includes Mass Spectrometry Imaging, Spatial Omics, Proteomics, and Metabolomics - each providing a lens through which I view into disease progression.
 
 My mission? To uncover hidden biomarkers that hold the promise of more effective diagnoses and treatments. 🌿🔬
 {style="text-align: justify;"}
