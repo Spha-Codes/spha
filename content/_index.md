@@ -271,10 +271,10 @@ sections:
         latitude: '55.92174'
         longitude: '-3.13948'  
       contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/SphamandlaN7'
+#        - icon: twitter
+#          icon_pack: fab
+#          name: DM Me
+#          link: 'https://twitter.com/SphamandlaN7'
 #        - icon: skype
 #          icon_pack: fab
 #          name: Skype Me
