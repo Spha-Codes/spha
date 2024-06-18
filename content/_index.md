@@ -251,6 +251,21 @@ sections:
       subtitle:
       text: |-
         Please fill out the form below to get in touch with me.
+          form:
+      action: 'mailto:your-email@example.com'  # Replace with your actual email
+      method: POST
+      fields:
+        - name: Name
+          type: text
+          required: true
+        - name: Email
+          type: email
+          required: true
+        - name: Message
+          type: textarea
+          required: true
+      submit_button:
+        text: Send
       # Contact (add or remove contact options as necessary)
 #      email: mgazih@gmail.com
 #      phone: 888 888 88 88
