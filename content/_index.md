@@ -247,9 +247,24 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
-      subtitle:
-      text: |-
+    title: Contact
+    # ... other configurations ...
+    form:
+      action: 'sphamandla.ntshangase7@gmail.com'  # Replace with your actual email
+      method: POST
+      fields:
+        - name: Name
+          type: text
+          required: true
+        - name: Email
+          type: email
+          required: true
+        - name: Message
+          type: textarea
+          required: true
+      submit_button:
+        text: Send
+
 #        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
 #      email: mgazih@gmail.com
