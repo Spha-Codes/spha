@@ -252,7 +252,7 @@ sections:
       text: |-
         Please fill out the form below to get in touch with me.
           form:
-      action: 'mailto:your-email@example.com'  # Replace with your actual email
+      action: 'sphamandla.ntshangase7@gmail.com'  # Replace with your actual email
       method: POST
       fields:
         - name: Name
