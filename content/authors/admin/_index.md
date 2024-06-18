@@ -40,7 +40,7 @@ education:
     - course: PhD in Pharmaceutical Chemistry
       institution: University of KwaZulu-Natal
       year: 2019
-    - course: MSc in Pharmaceutical Chemistry
+    - course: MMedSci in Pharmaceutical Chemistry
       institution: University of KwaZulu-Natal
       year: 2016
     - course: BSc(Hons) in Chemistry
