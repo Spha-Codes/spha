@@ -33,6 +33,7 @@ interests:
   - Mass Spectrometry 🔍
   - Cardiovascular Research 💓🔬
   - Bioinformatics 🧬💻
+  - Data Science 📊🌐
 
 # Education to show in About widget
 education:
