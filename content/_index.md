@@ -116,7 +116,7 @@ sections:
           date_end: ''
           date_start: '2024-07-01'
           description: ''
-          icon: coursera
+          icon: whatsapp
           organization: Coursera
           organization_url: https://www.coursera.org
           title: IBM Data Science Professional Certificate
