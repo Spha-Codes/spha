@@ -116,8 +116,8 @@ sections:
           date_end: ''
           date_start: '2024-07-01'
           description: ''
-          icon: x
-          organization: Coursera
+          icon: imb
+          organization: IBM
           organization_url: https://www.coursera.org
           title: IBM Data Science Professional Certificate
           url: 'https://www.coursera.org/account/accomplishments/specialization/certificate/Y97BQADEAYP6'
