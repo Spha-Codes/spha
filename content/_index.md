@@ -79,8 +79,8 @@ sections:
               * Contributed to scientific breakthroughs through analytical techniques.
               * Participated in grant writing, securing funding for ongoing and future research projects.
               * Integrated collaborative research across disciplines.
-              * Delivered presentations at scientific conferences/meetings (local and international).
-              * Guided junior researchers in developing research methodologies.
+#              * Delivered presentations at scientific conferences/meetings (local and international).
+#              * Guided junior researchers in developing research methodologies.
         - title: Medical Laboratory Technician (MLT)
           company: Global Health Innovations (GHI)
           company_url: ''
