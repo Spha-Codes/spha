@@ -1,7 +1,7 @@
 ---
 title: Edinburgh Real Estate Price Analysis
 date: '01-08-2024'
-summary: Easily blog from Jupyter notebooks!
+summary: Exploring Edinburgh's Housing Market through Data!
 ---
 
 
