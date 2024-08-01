@@ -1,5 +1,5 @@
 ---
-title: Blog with Jupyter Notebooks!
+title: 'Project: Edinburgh Real Estate Price Analysis'
 date: '2023-11-04'
 summary: Easily blog from Jupyter notebooks!
 ---
