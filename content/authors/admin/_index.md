@@ -60,7 +60,7 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 55
+        percent: 80
         icon: python
         icon_pack: fab
       - name: Data Science
@@ -84,12 +84,12 @@ skills:
         icon_pack: ai
       - name: Cardiovascular Research
         description: ''
-        percent: 80
+        percent: 98
         icon: inpn
         icon_pack: ai
       - name: Pathology
         description: ''
-        percent: 80
+        percent: 99
         icon: camera-retro
         icon_pack: fas
 
