@@ -89,7 +89,7 @@ skills:
         icon_pack: ai
       - name: Pathology
         description: ''
-        percent: 99
+        percent: 97
         icon: camera-retro
         icon_pack: fas
 
