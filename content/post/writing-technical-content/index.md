@@ -1,6 +1,6 @@
 ---
-title: Writing technical content in Markdown
-date: 2019-07-12
+title: Spatial Profiling of Lipoprotein (a) and Plaque Vulnerability
+date: 2019
 math: true
 image:
   placement: 2
