@@ -1,5 +1,5 @@
 ---
-title: 'Project: Edinburgh Real Estate Price Analysis'
+title: Edinburgh Real Estate Price Analysis
 date: '01-08-2024'
 summary: Easily blog from Jupyter notebooks!
 ---
@@ -10,15 +10,6 @@ from IPython.core.display import Image
 Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
 ```
 
-    
-![png](output_1_0.png)
-    
-
-```python
-print("Welcome to Academic!")
-```
-
-    Welcome to Academic!
 
 ## Organize your notebooks
 
