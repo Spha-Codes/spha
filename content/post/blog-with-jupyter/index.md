@@ -1,6 +1,6 @@
 ---
 title: 'Project: Edinburgh Real Estate Price Analysis'
-date: '2023-11-04'
+date: '01-08-2024'
 summary: Easily blog from Jupyter notebooks!
 ---
 
