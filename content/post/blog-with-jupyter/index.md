@@ -6,15 +6,9 @@ summary: Easily blog from Jupyter notebooks!
 
 
 
-## Organize your notebooks
+## Project Overview
 
-Place the notebooks that you would like to publish in a `notebooks` folder at the root of your website.
+This project is my personal exploration into the real estate market in Edinburgh. Driven by curiosity, I am analysing property prices to uncover trends and factors that influence market values in different areas of the city. By examining various datasets and using regression models, I aim to predict future prices and share insights through clear visualizations.
 
-## Import the notebooks into your site
 
-```bash
-pipx install academic
-academic import 'notebooks/**.ipynb' content/post/ --verbose
-```
-
-The notebooks will be published to the folder you specify above. In this case, they will be published to your `content/post/` folder.
+*Stay tuned!!*
