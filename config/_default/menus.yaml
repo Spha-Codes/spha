@@ -11,14 +11,14 @@ main:
     url: '#Experience'
     weight: 20
   - name: Projects
-    url: '#posts'
-    weight: 30
+    url: '#projects'
+    weight: 50
 #  - name: Talks
 #    url: '#talks'
 #    weight: 40
   - name: Certifications
     url: '#Certifications'
-    weight: 50
+    weight: 30
   - name: Contact
     url: '#contact'
     weight: 60
