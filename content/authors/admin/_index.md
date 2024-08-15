@@ -126,7 +126,5 @@ social:
 highlight_name: true
 ---
 
-I'm a Research Scientist at the <span style="color:red">[University of Edinburgh](https://www.ed.ac.uk/)</span>, BHF Centre for [Cardiovascular Science](https://cardiovascular-science.ed.ac.uk/). My research and writing explore the complex nature of cardiovascular health. Within this realm, I navigate heart conditions such as [atherosclerosis](https://www.bhf.org.uk/informationsupport/conditions/atherosclerosis) and [aortic valve disease](https://www.bhf.org.uk/informationsupport/conditions/heart-valve-disease), unraveling their mysteries through cutting-edge techniques. My toolkit includes Mass Spectrometry Imaging, [Spatial Omics](https://intelligence.weforum.org/topics/a1G680000008gwKEAQ), Proteomics, and Metabolomics - each providing a lens through which I view into disease progression.
-
-My mission? To uncover hidden biomarkers that hold the promise of more effective diagnoses and treatments. 🌿🔬
+I’m a research scientist at the <span style="color:red">[University of Edinburgh](https://www.ed.ac.uk/)</span>’s BHF Centre for [Cardiovascular Science](https://cardiovascular-science.ed.ac.uk/). I focus on understanding cardiovascular health, specifically heart conditions like [atherosclerosis](https://www.bhf.org.uk/informationsupport/conditions/atherosclerosis) and [aortic valve disease](https://www.bhf.org.uk/informationsupport/conditions/heart-valve-disease). I use advanced techniques like Mass Spectrometry Imaging, [Spatial Omics](https://intelligence.weforum.org/topics/a1G680000008gwKEAQ), Proteomics, and Metabolomics to study disease progression. My goal is to find new biomarkers that could lead to better diagnoses and treatments. 🌿🔬
 {style="text-align: justify;"}
