@@ -249,9 +249,6 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Please fill out the form below to get in touch with me.
-          form:
       action: "mailto:sphamandla.ntshangase7@gmail.com"
       method: POST
       fields:
