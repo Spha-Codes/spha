@@ -244,25 +244,25 @@ sections:
 #      title: Popular Topics
 #    design:
 #      columns: '2'
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      action: "mailto:sphamandla.ntshangase7@gmail.com"
-      method: POST
-      fields:
-        - name: Name
-          type: text
-          required: true
-        - name: Email
-          type: email
-          required: true
-        - name: Message
-          type: textarea
-          required: true
-      submit_button:
-        text: Send
+#  - block: contact
+#    id: contact
+#    content:
+#      title: Contact
+#      subtitle:
+#      action: "mailto:sphamandla.ntshangase7@gmail.com"
+#      method: POST
+#      fields:
+#        - name: Name
+#          type: text
+#          required: true
+#        - name: Email
+#          type: email
+#          required: true
+#        - name: Message
+#          type: textarea
+#          required: true
+#      submit_button:
+#        text: Send
       # Contact (add or remove contact options as necessary)
 #      email: mgazih@gmail.com
 #      phone: 888 888 88 88
