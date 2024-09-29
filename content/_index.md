@@ -140,7 +140,7 @@ sections:
 #          title: 'Object-Oriented Programming in R'
 #          url: ''
     design:
-      columns: '2'
+      columns: '1'
   - block: collection
     id: projects
     content:
@@ -206,7 +206,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Publications
+      title: Recent publications
       filters:
         folders:
           - Recent publications
