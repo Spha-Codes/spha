@@ -19,7 +19,7 @@ main:
   - name: Certifications
     url: '#Certifications'
     weight: 30
-  - name: Contact
+  - name: Recent publications
     url: '#contact'
     weight: 60
 
