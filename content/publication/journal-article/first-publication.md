@@ -3,11 +3,11 @@ title: "Spatial Lipidomic Profiling Reveals Heterogeneous Lipid Distribution Pat
 authors:
 - Sphamandla Ntshangase
 - [Collaborators]
-date: "202X-XX-XXT00:00:00Z"
+date: "2024-09-29T00:00:00Z"
 doi: "To be determined"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "202X-XX-XXT00:00:00Z"
+publishDate: "2024-09-29T00:00:00Z"
 
 # Publication type.
 publication_types: ["article-journal"]
