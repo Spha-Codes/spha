@@ -1,5 +1,5 @@
 ---
-title: "Mass Spectrometry Imaging Demonstrates the Regional Brain Distribution Patterns of Three First-Line Antiretroviral Drugs"
+title: "Spa Spectrometry Imaging Demonstrates the Regional Brain Distribution Patterns of Three First-Line Antiretroviral Drugs"
 authors:
 - Sphamandla Ntshangase
 - Sipho Mdanda
