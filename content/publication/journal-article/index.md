@@ -1,5 +1,5 @@
 ---
-title: "Spa Spectrometry Imaging Demonstrates the Regional Brain Distribution Patterns of Three First-Line Antiretroviral Drugs"
+title: "Mass Spectrometry Imaging Demonstrates the Regional Brain Distribution Patterns of Three First-Line Antiretroviral Drugs"
 authors:
 - Sphamandla Ntshangase
 - Sipho Mdanda
@@ -32,8 +32,8 @@ abstract: HIV in the central nervous system (CNS) contributes to the development
 ## Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- Source Themes
+#tags:
+#- Source Themes
 featured: true
 
 # links:
