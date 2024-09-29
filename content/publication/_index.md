@@ -12,10 +12,4 @@ view: 4
 banner:
   caption: ''
   image: ''
-
-
-## Recent Publications
-
-- [First Publication Title](publication/first-publication/)
-- [Spatial Lipidomic Profiling Reveals Heterogeneous Lipid Distribution Patterns in Atherosclerotic Plaques](publication/second-publication/)
 ---
