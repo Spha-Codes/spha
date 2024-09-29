@@ -54,7 +54,7 @@ slides: example
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/second-publication.md`.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/second-Recent publications.md`.
 #   Otherwise, set `projects = []`.
 projects:
   - example

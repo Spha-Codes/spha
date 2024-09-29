@@ -15,15 +15,15 @@ authors:
 date: "2019-12-05T00:00:00Z"
 doi: "https://doi.org/10.1021/acsomega.9b02582"
 
-# Schedule page publish date (NOT publication's date).
+# Schedule page publish date (NOT Recent publications's date).
 publishDate: "2019-12-05T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
+# Enter a Recent publications type from the CSL standard.
 publication_types: ["article-journal"]
 
-# Publication name and optional abbreviated publication name.
+# Publication name and optional abbreviated Recent publications name.
 publication: "ACS Omega 2019, 4, 25, 21169–21177"
 publication_short: ""
 

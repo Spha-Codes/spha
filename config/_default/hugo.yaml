@@ -30,7 +30,7 @@ permalinks:
   event: '/talk/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
-  publication_types: '/publication-type/:slug/'
+  publication_types: '/Recent publications-type/:slug/'
 disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]

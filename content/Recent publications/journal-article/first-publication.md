@@ -14,13 +14,13 @@ authors:
 date: "2024-09-28T00:00:00Z"
 doi: "https://doi.org/10.1016/j.talanta.2024.126954"
 
-# Schedule page publish date (NOT publication's date).
+# Schedule page publish date (NOT Recent publications's date).
 publishDate: "2024-09-28T00:00:00Z"
 
 # Publication type.
 publication_types: ["article-journal"]
 
-# Publication name and optional abbreviated publication name.
+# Publication name and optional abbreviated Recent publications name.
 publication: "In Press, Journal Pre-proof"
 publication_short: ""
 

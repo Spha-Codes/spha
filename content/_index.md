@@ -209,7 +209,7 @@ sections:
       title: Publications
       filters:
         folders:
-          - publication
+          - Recent publications
         featured_only: true
 #    design:
 #      columns: '2'
@@ -220,11 +220,11 @@ sections:
 #      title: Publications
 #      text: |-
 #        {{% callout note %}}
-#        Quickly discover relevant content by [filtering publications](./publication/).
+#        Quickly discover relevant content by [filtering publications](./Recent publications/).
 #        {{% /callout %}}
 #      filters:
 #        folders:
-#          - publication
+#          - Recent publications
 #        exclude_featured: true
 #    design:
 #      columns: '2'
