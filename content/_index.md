@@ -204,7 +204,7 @@ sections:
     design:
       columns: '2'
   - block: collection
-    id: featured
+    id: Recent publications
     content:
       title: Recent publications
       filters:
