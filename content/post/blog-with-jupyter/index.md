@@ -1,5 +1,5 @@
 ---
-title: Predicting Cardiovascular Risk (Cardiovascular)
+title: Predicting Cardiovascular Risk
 date: '01-01-2025'
 summary: Harnessing Data for Early Intervention and Personalised Care.
 ---
