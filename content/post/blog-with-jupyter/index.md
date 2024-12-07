@@ -1,14 +1,12 @@
 ---
-title: Edinburgh Real Estate Price Analysis
-date: '01-08-2024'
-summary: Exploring Edinburgh's Housing Market through Data!
+title: Predicting Cardiovascular Risk (Cardiovascular)
+date: '01-01-2025'
+summary: Harnessing Data for Early Intervention and Personalised Care.
 ---
 
 
 
 ## Project Overview
-
-This project is my personal exploration into the real estate market in Edinburgh. Driven by curiosity, I am analysing property prices to uncover trends and factors that influence market values in different areas of the city. By examining various datasets and using regression models, I aim to predict future prices and share insights through clear visualizations.
-
+This project aims to develop a predictive model for assessing the risk of cardiovascular events based on patient clinical and demographic data. By applying machine learning techniques, the project will explore various risk factors such as age, gender, blood pressure, cholesterol levels, lifestyle habits, and pre-existing medical conditions. The objective is to build a reliable and interpretable model that can estimate the likelihood of cardiovascular events, supporting early intervention and personalised treatment planning.
 
 *Stay tuned!!*
