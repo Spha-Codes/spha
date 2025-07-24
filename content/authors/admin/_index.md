@@ -31,7 +31,7 @@ bio: Spha, Cardiovascular Research Scientist | Biomarker Explorer | 🌿🔬
 interests:
   - Spatial Omics 🌐
   - Mass Spectrometry 🔍
-  - Cardiovascular Research ![img.png](img.png)💓🔬
+  - Cardiovascular Research 💓🔬
   - Bioinformatics 🧬💻
   - Data Science 📊🌐
 
