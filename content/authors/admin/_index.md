@@ -65,7 +65,7 @@ skills:
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 70
+        percent: 80
         icon: chart-line
         icon_pack: fas
       - name: R
